@@ -17,8 +17,8 @@ flutter --version
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/bargo123/exinity-assessment.git
-cd exinity-assessment
+git clone https://github.com/bargo123/quiqflow-assesment.git
+cd quiqflow-assesment
 ```
 
 
